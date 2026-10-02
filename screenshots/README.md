@@ -17,4 +17,3 @@ Recommended screenshots:
 11. `cloudwatch-alarm.png` — rejected traffic alarm
 12. `web-test.png` — Apache response
 
-Before publishing screenshots, redact sensitive information such as account IDs, credentials, private keys, or other information you do not want public.
